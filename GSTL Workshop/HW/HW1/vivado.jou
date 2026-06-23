@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue Jan 27 11:44:07 2026
+# Process ID: 9796
+# Current directory: C:/GSTL_26/DAY1/HW/HW1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent34472 C:\GSTL_26\DAY1\HW\HW1\HW1.xpr
+# Log file: C:/GSTL_26/DAY1/HW/HW1/vivado.log
+# Journal file: C:/GSTL_26/DAY1/HW/HW1\vivado.jou
+# Running On: sancak, OS: Windows, CPU Frequency: 2918 MHz, CPU Physical cores: 14, Host memory: 16849 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/GSTL_26/DAY1/HW/HW1/HW1.xpr
+update_compile_order -fileset sources_1
+close_project
+create_project traffic_light C:/GSTL_26/DAY2/traffic_light -part xc7k70tfbv676-1
+file mkdir C:/GSTL_26/DAY2/traffic_light/traffic_light.srcs/sources_1/new
+close [ open C:/GSTL_26/DAY2/traffic_light/traffic_light.srcs/sources_1/new/Traffic.v w ]
+add_files C:/GSTL_26/DAY2/traffic_light/traffic_light.srcs/sources_1/new/Traffic.v
+update_compile_order -fileset sources_1

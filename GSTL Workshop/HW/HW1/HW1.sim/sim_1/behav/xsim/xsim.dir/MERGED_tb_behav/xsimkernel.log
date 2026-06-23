@@ -1,0 +1,7 @@
+Running: xsim.dir/MERGED_tb_behav/xsimk.exe -simmode gui -wdb MERGED_tb_behav.wdb -simrunnum 0 -socket 49875
+Design successfully loaded
+Design Loading Memory Usage: 9600 KB (Peak: 9600 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 10248 KB (Peak: 10248 KB)
+Simulation CPU Usage: 15 ms
