@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/GSTL_26/DAY1/4-BIT_ADDER/4-BIT_ADDER.srcs/sources_1/new/FullAdder_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FullAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/GSTL_26/DAY1/4-BIT_ADDER/4-BIT_ADDER.srcs/sources_1/new/HalfAdder_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HalfAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/GSTL_26/DAY2/Multiplier/Multiplier_4x4/Multiplier_4x4.srcs/sources_1/new/Multiplier_4x4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Multiplier_4x4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/GSTL_26/DAY2/Multiplier/Multiplier_4x4/Multiplier_4x4.srcs/sim_1/new/Multiplier_4x4_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mutiplier_4x4_tb
